@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/Jobconnect/static/js/main.a771b485.js",
+    "index.html": "/Jobconnect/index.html",
+    "main.a771b485.js.map": "/Jobconnect/static/js/main.a771b485.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a771b485.js"
+  ]
+}
