@@ -23,6 +23,7 @@ function Signup() {
                     alert("User already exists");
                 }
                 else if(res.data === "notexists"){
+                    
                     history("/home",{state:{id:email}})
                 }
             })
